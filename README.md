@@ -2,7 +2,7 @@
 
 Sitio web que comparte publicaciones sobre Programación y Arquitectura de Aplicaciones Web.
 
-## Estructura
+## Categorías
 
 ### [Programación](https://github.com/Solo-Codigo-Web/solocodigoweb.com/blob/main/programming_posts.md)
 
