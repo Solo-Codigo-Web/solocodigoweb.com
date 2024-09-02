@@ -2,6 +2,8 @@
 
 * [La Guía Definitiva para dominar tu próxima entrevista técnica en SQL](https://solocodigoweb.com/blog/2024/08/27/la-guia-definitiva-para-dominar-tu-proxima-entrevista-tecnica-en-sql/)
 
+* [Curso completo de Introducción a la Ciencia de la Computación Edición 2024 de Harvard University](https://solocodigoweb.com/blog/2024/08/23/curso-completo-de-introduccion-a-la-ciencia-de-la-computacion-edicion-2024-de-harvard-university/)
+
 * [El punto de inflexión que desencadenó la carrera por la Inteligencia Artificial en China](https://solodatascience.com/el-punto-de-inflexion-que-desencadeno-la-carrera-por-la-inteligencia-artificial-en-china/)
 
 * [10 empleos de tecnología que dominarán el mercado laboral este 2020](https://solocodigoweb.com/blog/2020/01/08/10-empleos-de-tecnologia-que-dominaran-el-mercado-laboral-este-2020/)
